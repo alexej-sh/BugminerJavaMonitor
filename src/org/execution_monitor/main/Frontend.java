@@ -90,7 +90,7 @@ public class Frontend {
         String projectPackageName = "org.apache.commons.lang3.";//Whitelist
 
         String[] testclasses = new String[1];
-        testclasses[0] = "org.apache.commons.lang3.AnnotationUtilsTest";//TestsuitExecuterTest zeigt wie man Klassen als Strings angeben soll
+        testclasses[0] = "org.apache.commons.lang3.AnnotationUtilsTest";//"TestsuitExecuterTest.java" zeigt wie man Klassen als Strings angeben soll
         //testclasses[1] = TestsuitExecuterTest.class;
 
 
